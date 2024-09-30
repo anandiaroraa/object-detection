@@ -1,5 +1,3 @@
-# Ultralytics YOLOv5 🚀, AGPL-3.0 license
-
 # Overview:
 # This pyproject.toml file manages the build, packaging, and distribution of the Ultralytics library.
 # It defines essential project metadata, dependencies, and settings used to develop and deploy the library.
@@ -25,8 +23,8 @@ build-backend = "setuptools.build_meta"
 # Project settings -----------------------------------------------------------------------------------------------------
 [project]
 version = "7.0.0"
-name = "YOLOv5"
-description = "Ultralytics YOLOv5 for SOTA object detection, instance segmentation and image classification."
+name = "Object-detection"
+description = "anandiaroraa object-detection model, instance segmentation and image classification."
 readme = "README.md"
 requires-python = ">=3.8"
 license = { "text" = "AGPL-3.0" }
